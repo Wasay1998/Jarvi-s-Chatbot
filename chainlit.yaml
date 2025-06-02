@@ -1,0 +1,6 @@
+ui:
+  name = "Jarvis"
+  description = "A fast and smart AI assistant built with Chainlit and Gemini."
+  show_prompt_box = true
+  default_collapse_content = false
+  hide_cot = true
